@@ -15,6 +15,8 @@
       })
     );
 
+https://prettier.io/docs/en/browser.html
+
 A simple boilerplate for Monaco editor with React.
 
 Реактивный Monaco editor
