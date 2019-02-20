@@ -17,6 +17,8 @@
 
 https://prettier.io/docs/en/browser.html
 
+https://github.com/satya164/eslint-browser
+
 A simple boilerplate for Monaco editor with React.
 
 Реактивный Monaco editor
